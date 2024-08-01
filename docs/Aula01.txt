@@ -1,0 +1,2 @@
+- Algoritmos: São conjuntos de passos finitos e organizados que, quando executados, resolvem um determinado problema.
+- Reprodução de padrão = algoritimo
