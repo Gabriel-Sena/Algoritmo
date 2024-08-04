@@ -1,0 +1,31 @@
+Algoritmos computacionais
+
+- São passos a serem seguidos por um módulo processador (tudo que é programavel) e seus respectivos usuários (outras pessoas que utilizarem meu algoritmo) que, quando execultados na ordem correta, conseguem realizar determinada tarefa.
+
+- Todo algoritmo computacional começa com a lógica de programação;
+- Em seguida estruturar essa lógica usando uma linguagem de programação;
+
+Represenrtações da lógica de programação
+- Fluxograma: fluxo de informações;
+- Nassi Shneiderman: represenrtação através de blocos;
+- Portugol: lógica escrita na linguagem nativa, português;
+
+Comandos de saída
+- Escreva: para escrever algo na tela, como se fosse um print; 
+- Escreval: escreve o que eu quero e pula uma linha;
+
+Regras para identificadores
+- Começar com uma letra;
+- Os próximos podem ser letras ou números;
+- Só pode usar o símbolo de "_";
+- Não pode conter espaço em branco;
+- Não pode ter acento;
+- Não pode ser uma palavra reservada.
+
+Tipos Primitivos
+- Inteiro: guarda apenas números inteiros (15, -58, 0);
+- Real: guarda apenas números inteiros e com partes fracionadas (0.5, -6.8, 7.0);
+- Caracter: tudo que é colocado entre aspas ("gabriel", "123");
+- Lógico: verdadeiro e falso.
+
+<-: simbolo de atribuição
